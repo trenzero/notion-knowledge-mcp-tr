@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "notion-knowledge": {
+      "command": "node",
+      "args": ["./src/mcp-server.js"]
+    }
+  }
+}
